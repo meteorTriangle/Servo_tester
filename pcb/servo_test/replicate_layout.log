@@ -1,0 +1,5 @@
+10-04 17:48:08 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 303:Plugin executed on: 'win32'
+10-04 17:48:08 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 304:Plugin executed with python version: '3.9.10 (main, Jul 19 2022, 05:36:50) [MSC v.1932 64 bit (AMD64)]'
+10-04 17:48:08 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 305:KiCad build version: (6.0.7)
+10-04 17:48:08 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 306:Plugin version: 1.2.1
+10-04 17:48:08 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 307:Frame repr: <wx._core.Frame object at 0x0000020BE772FAF0>
